@@ -49,7 +49,7 @@
         {
           "name": "Alabama",
           "abbreviation": "BAMA",
-          "prestige": "94",
+          "prestige": "99",
           "state": "Alabama",
           "rival": "AUB",
           "headCoach": 
@@ -62,18 +62,18 @@
             "homeState": "West Virginia",
             "baselinePrestige": "70",
             "cumulativePrestige": "1000",
-            "ratOvr": "94",
-            "ratDef": "97",
-            "ratOff": "85",
-            "ratTalent": "97",
+            "ratOvr": "99",
+            "ratDef": "99",
+            "ratOff": "95",
+            "ratTalent": "99",
             "ratDiscipline": "97",
-            "ratPot": "56"
+            "ratPot": "99"
           }
         },        
         {
           "name": "Georgia",
           "abbreviation": "UGA",
-          "prestige": "84",
+          "prestige": "88",
           "state": "Georgia",
           "rival": "UF",
           "headCoach": 
@@ -87,17 +87,17 @@
             "baselinePrestige": "75",
             "cumulativePrestige": "30",
             "ratOvr": "83",
-            "ratDef": "73",
+            "ratDef": "83",
             "ratOff": "85",
             "ratTalent": "87",
             "ratDiscipline": "85",
-            "ratPot": "79"
+            "ratPot": "89"
           }
         },        
         {
           "name": "Florida",
           "abbreviation": "UF",
-          "prestige": "84",
+          "prestige": "91",
           "state": "Florida",
           "rival": "UGA",
           "headCoach": 
@@ -110,20 +110,20 @@
             "homeState": "Pennsylvania",
             "baselinePrestige": "75",
             "cumulativePrestige": "9",
-            "ratOvr": "75",
-            "ratDef": "68",
-            "ratOff": "79",
-            "ratTalent": "76",
-            "ratDiscipline": "75",
-            "ratPot": "67"
+            "ratOvr": "85",
+            "ratDef": "78",
+            "ratOff": "89",
+            "ratTalent": "86",
+            "ratDiscipline": "85",
+            "ratPot": "87"
           }
         },        
         {
           "name": "Tennessee",
           "abbreviation": "TENN",
-          "prestige": "68",
+          "prestige": "78",
           "state": "Tennessee",
-          "rival": "MSST",
+          "rival": "UK",
           "headCoach": 
           {
             "name": "Jeremy Pruitt",
@@ -134,18 +134,18 @@
             "homeState": "Alabama",
             "baselinePrestige": "60",
             "cumulativePrestige": "3",
-            "ratOvr": "69",
-            "ratDef": "79",
-            "ratOff": "66",
-            "ratTalent": "70",
-            "ratDiscipline": "62",
-            "ratPot": "83"
+            "ratOvr": "74",
+            "ratDef": "84",
+            "ratOff": "71",
+            "ratTalent": "75",
+            "ratDiscipline": "68",
+            "ratPot": "86"
           }
         },        
         {
           "name": "LSU",
           "abbreviation": "LSU",
-          "prestige": "81",
+          "prestige": "90",
           "state": "Louisiana",
           "rival": "TAMU",
           "headCoach": 
@@ -158,20 +158,20 @@
             "homeState": "Louisiana",
             "baselinePrestige": "75",
             "cumulativePrestige": "4",
-            "ratOvr": "75",
+            "ratOvr": "80",
             "ratDef": "86",
-            "ratOff": "78",
-            "ratTalent": "68",
-            "ratDiscipline": "69",
-            "ratPot": "61"
+            "ratOff": "83",
+            "ratTalent": "78",
+            "ratDiscipline": "79",
+            "ratPot": "81"
           }
         },        
         {
           "name": "Kentucky",
-          "abbreviation": "KY",
-          "prestige": "74",
+          "abbreviation": "UK",
+          "prestige": "64",
           "state": "Kentucky",
-          "rival": "MIZZ",
+          "rival": "TENN",
           "headCoach": 
           {
             "name": "Mark Stoops",
@@ -183,43 +183,43 @@
             "baselinePrestige": "64",
             "cumulativePrestige": "0",
             "ratOvr": "74",
-            "ratDef": "65",
-            "ratOff": "68",
-            "ratTalent": "68",
+            "ratDef": "70",
+            "ratOff": "73",
+            "ratTalent": "73",
             "ratDiscipline": "95",
-            "ratPot": "75"
+            "ratPot": "78"
           }
         },        
         {
-          "name": "Missouri",
-          "abbreviation": "MIZZ",
-          "prestige": "68",
-          "state": "Missouri",
-          "rival": "KY",
+          "name": "Ole Miss",
+          "abbreviation": "MISS",
+          "prestige": "73",
+          "state": "Mississippi",
+          "rival": "MSST",
           "headCoach": 
           {
-            "name": "Barry Odom",
+            "name": "Matt Luke",
             "age": "42",
             "startYear": "2019",
             "contractYear": "1",
             "contractLength": "5",
-            "homeState": "Texas",
-            "baselinePrestige": "65",
+            "homeState": "Mississippi",
+            "baselinePrestige": "55",
             "cumulativePrestige": "0",
             "ratOvr": "69",
             "ratDef": "65",
             "ratOff": "72",
             "ratTalent": "68",
             "ratDiscipline": "70",
-            "ratPot": "86"
+            "ratPot": "76"
           }
         },        
         {
           "name": "Mississippi State",
           "abbreviation": "MSST",
-          "prestige": "75",
+          "prestige": "70",
           "state": "Mississippi",
-          "rival": "TENN",
+          "rival": "MISS",
           "headCoach": 
           {
             "name": "Joe Moorhead",
@@ -241,7 +241,7 @@
         {
           "name": "Auburn",
           "abbreviation": "AUB",
-          "prestige": "72",
+          "prestige": "82",
           "state": "Alabama",
           "rival": "BAMA",
           "headCoach": 
@@ -254,18 +254,18 @@
             "homeState": "Texas",
             "baselinePrestige": "74",
             "cumulativePrestige": "2",
-            "ratOvr": "75",
-            "ratDef": "71",
-            "ratOff": "80",
-            "ratTalent": "70",
-            "ratDiscipline": "77",
-            "ratPot": "58"
+            "ratOvr": "80",
+            "ratDef": "76",
+            "ratOff": "85",
+            "ratTalent": "80",
+            "ratDiscipline": "82",
+            "ratPot": "85"
           }
         },        
         {
           "name": "Texas A&M",
           "abbreviation": "TAMU",
-          "prestige": "76",
+          "prestige": "84",
           "state": "Texas",
           "rival": "LSU",
           "headCoach": 
@@ -278,12 +278,12 @@
             "homeState": "Arizona",
             "baselinePrestige": "67",
             "cumulativePrestige": "9",
-            "ratOvr": "76",
-            "ratDef": "74",
-            "ratOff": "80",
-            "ratTalent": "80",
-            "ratDiscipline": "70",
-            "ratPot": "65"
+            "ratOvr": "86",
+            "ratDef": "84",
+            "ratOff": "90",
+            "ratTalent": "90",
+            "ratDiscipline": "80",
+            "ratPot": "90"
           }
         }
       ]
@@ -291,7 +291,7 @@
     {
       "confName": "B1G",
       "confFullName": "Big Ten",
-      "confPrestige": "88",
+      "confPrestige": "90",
       "confTeams": 
       [        
         {
@@ -787,7 +787,7 @@
     {
       "confName": "ACC",
       "confFullName": "Atlantic Coastal Conference",
-      "confPrestige": "88",
+      "confPrestige": "86",
       "confTeams": 
       [        
         {
